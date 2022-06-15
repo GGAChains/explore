@@ -1,0 +1,70 @@
+<footer class="footer">
+  <div class="footer-body container">
+    <!-- Logo -->
+    <div class="row footer-logo-row">
+      <div class="col-md-12">
+      
+            <img class="footer-logo" style="height:60px;margin-left:-65px" src="https://image.ggachains.com/scan/logo.png" alt="ggascan" />
+         
+           
+         
+      </div>
+    </div>
+
+ 
+
+    <div class="row">
+      <div class="col-xs-12 col-lg-3">
+        <p class="footer-info-text">GGA SCAN is a tool for inspecting and analyzing EVM based blockchains. GGA SCAN explorer for GGA CHAINS Networks.</p>
+        <div class="footer-social-icons">
+      <a href="javascript:void(0);" rel="noreferrer" target="_blank" class="footer-social-icon" title=''>
+            <div class="footer-social-icon-container fontawesome-icon github">Github</div>
+          </a>
+          <a href="javascript:void(0);" rel="noreferrer" target="_blank" class="footer-social-icon" title='Twitter'>
+            <div class="footer-social-icon-container fontawesome-icon twitter">Twitter</div>
+          </a>
+          <a href="javascript:void(0);" rel="noreferrer" target="_blank" class="footer-social-icon" title='Telegram'>
+            <div class="footer-social-icon-container fontawesome-icon telegram">Telegram</div>
+          </a>
+        </div>
+      </div>
+
+      <div class="col-xs-12 col-md-4 col-lg-3 footer-list">
+        <h3>Company</h3>
+        <ul>
+        <li><a href="javascript:void(0);" rel="noreferrer" class="footer-link" target="_blank">About Us</a></li>
+          <li><a href="javascript:void(0);" rel="noreferrer" class="footer-link">Contact Us</a></li>
+          <li><a href="javascript:void(0);" rel="noreferrer" class="footer-link">Brand Assets</a></li>
+          <li><a href="javascript:void(0);" rel="noreferrer" class="footer-link">Forum</a></li>
+         
+		 
+        </ul>
+      </div>
+	 
+        <div class="col-xs-12 col-md-4 col-lg-3 footer-list">
+          <h3>Resources</h3>
+          <ul>
+           
+              <li><a href="javascript:void(0);" rel="norefferer" class="footer-link"> API Documentation </a></li>
+            <li><a href="javascript:void(0);" rel="norefferer" class="footer-link"> Knowledge Base </a></li>
+			 <li><a href="javascript:void(0);" rel="norefferer" class="footer-link"> Newsletter </a></li>
+			  <li><a href="javascript:void(0);" rel="norefferer" class="footer-link"> Network Status </a></li>
+			  <li><a href="javascript:void(0);" rel="norefferer" class="footer-link"> Disqus Comments </a></li>
+          </ul>
+        </div>
+    
+
+     
+        <div class="col-xs-12 col-md-4 col-lg-3 footer-list">
+          <h3>Products & Services</h3>
+          <ul>
+            
+              <li><a href="javascript:void(0);" rel="noreferrer" class="footer-link">Advertise </a></li>
+              <li><a href="javascript:void(0);" rel="noreferrer" class="footer-link">Developer APIs </a></li>
+          </ul>
+        </div>
+     
+
+   
+  </div>
+</footer>

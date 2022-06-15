@@ -1,0 +1,3 @@
+<title>
+  <%= gettext("GGAchains Explorer - scan.ggachains.com", subnetwork: subnetwork_title()) %>
+</title>
